@@ -1,0 +1,22 @@
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  height: 100%;
+}
+
+.main {
+  text-align: center;
+  margin: auto 0;
+}
+
+.center > h1 {
+  font-size: 10ex;
+  font-weight: bold;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
